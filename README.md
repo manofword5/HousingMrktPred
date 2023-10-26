@@ -9,7 +9,7 @@ We strive to obtain the median house value for the California district, as media
 
 Procedure:
 1.	Problem definition — The given model is one of supervised learning, where we are going to use regression, since we have to find a numerical quantity.
-2.	Data — California Housing Dataset https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_h ousing.html
+2.	Data — California Housing Dataset https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
 3.	Evaluation — Evaluation using coefficient of determination(r^2),cross validation score and mean absolute error.
 4.	Features — 8 numeric, predictive attributes and the target
 5.	Modelling — We use both the Ridge Regressor and the RandomForestRegressor, with the latter having the highest score.
